@@ -1,9 +1,9 @@
-Program 1: Gladiolus
+## Program 1: Gladiolus
     Prompt for the number of sections and display
     an ASCII gladiolus flower, with the sections centered
     above each other.
     
-Sample program run:
+### Sample program run:
     Program 1: Gladiolus
     Choose from among the following options:
        1. Display original graphic
